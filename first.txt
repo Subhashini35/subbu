@@ -1,0 +1,12 @@
+git init -command is used to initialize git repository.we shall have to run this command.
+git --version - this command will tell you the git version.
+this line is the missing
+added new line
+git init -command is used to initialize git repository.we shall have to run this command.
+git --version - this command will tell you the git version.
+this line is the missing
+added new line
+git init -command is used to initialize git repository.we shall have to run this command.
+git --version - this command will tell you the git version.
+this line is the missing
+added new line
